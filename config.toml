@@ -1,0 +1,6 @@
+listen = ":8081"
+env = "development"
+mysql = "root:123456@/codingtest?charset=utf8&parseTime=True&loc=Local"
+rabbitmq = "amqp://guest:guest@localhost:5672/"
+redis = "redis://localhost:6379"
+log_file = "log.log"
